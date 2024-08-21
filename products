@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "image": "https://firebasestorage.googleapis.com/v0/b/marketingshoes-682ee.appspot.com/o/products%2Fblue-removebg-preview.png?alt=media&token=2d9392a2-12c0-46a4-9663-d94374739d76",
+        "price": 455,
+        "name": "Puma"
+    },
+    {
+        "id": 2,
+        "image": "https://firebasestorage.googleapis.com/v0/b/marketingshoes-682ee.appspot.com/o/products%2Fa62a63f8822d8c3ddf2b4a86e197c22a-removebg-preview.png?alt=media&token=9594d45d-b620-413d-b3f0-7d78b0caace0",
+        "price": 460,
+        "name": "Nike"
+    }
+]
