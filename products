@@ -3,12 +3,30 @@
         "id": 1,
         "image": "https://firebasestorage.googleapis.com/v0/b/marketingshoes-682ee.appspot.com/o/products%2Fblue-removebg-preview.png?alt=media&token=2d9392a2-12c0-46a4-9663-d94374739d76",
         "price": 455,
-        "name": "Puma"
+        "name": "Air Force 1"
     },
     {
         "id": 2,
-        "image": "https://firebasestorage.googleapis.com/v0/b/marketingshoes-682ee.appspot.com/o/products%2Fa62a63f8822d8c3ddf2b4a86e197c22a-removebg-preview.png?alt=media&token=9594d45d-b620-413d-b3f0-7d78b0caace0",
+        "image": "https://firebasestorage.googleapis.com/v0/b/marketingshoes-682ee.appspot.com/o/products%2Fjrodan.png?alt=media&token=991707bd-1103-4868-9b18-a23d0d61207f",
         "price": 460,
-        "name": "Nike"
+        "name": "Air Jordan 1"
+    },
+    {
+        "id": 3,
+        "image": "https://firebasestorage.googleapis.com/v0/b/marketingshoes-682ee.appspot.com/o/products%2Fgreen.png?alt=media&token=28f07e7f-1964-4fc1-81ab-b67539bad548",
+        "price": 520,
+        "name": "Air Force 1 CUZ 121"
+    },
+   {
+        "id": 4,
+        "image": "https://firebasestorage.googleapis.com/v0/b/marketingshoes-682ee.appspot.com/o/products%2Fnike_sb_dunk-removebg-preview.png?alt=media&token=566220e4-8618-47e4-a113-8fdc35c448b6",
+        "price": 480,
+        "name": "SB Dunk Low"
+    },
+ {
+        "id": 5,
+        "image": "https://firebasestorage.googleapis.com/v0/b/marketingshoes-682ee.appspot.com/o/products%2Fzoom-lebron-2-shoes-PL3R03-removebg-preview.png?alt=media&token=931fff4d-0d3a-4e87-b527-06b905439645",
+        "price": 520,
+        "name": "Zoom Lebron 2"
     }
 ]
