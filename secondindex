@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "image": "https://firebasestorage.googleapis.com/v0/b/marketingshoes-682ee.appspot.com/o/secondindex%2F2021-release-Nike-Air-Max-97-blue-red-and-off-white-DC3494-995-removebg-preview.png?alt=media&token=2bf287bd-c3cd-4a47-9934-06c16868196d",
+        "price": 520,
+        "name": "Air Max 97"
+    },
+    {
+        "id": 2,
+        "image": "https://firebasestorage.googleapis.com/v0/b/marketingshoes-682ee.appspot.com/o/secondindex%2FNike%20Air%20Zoom%20SuperRep%202.png?alt=media&token=fceb2708-2034-409b-921a-07b630bb1803",
+        "price": 460,
+        "name": "Zoom SR 2"
+    },
+    {
+        "id": 3,
+        "image": "https://firebasestorage.googleapis.com/v0/b/marketingshoes-682ee.appspot.com/o/secondindex%2FNike%20Air%20Zoom%20SuperRep.png?alt=media&token=062a9f22-34d3-47a5-bef4-4378af5838b5",
+        "price": 520,
+        "name": "Zoom SR 1"
+    },
+   {
+        "id": 4,
+        "image": "https://firebasestorage.googleapis.com/v0/b/marketingshoes-682ee.appspot.com/o/secondindex%2FNike%20KD%202.png?alt=media&token=5fa210b6-646b-48b5-8769-1257a82c2afc",
+        "price": 580,
+        "name": "Kevin KD 2"
+    },
+ {
+        "id": 5,
+        "image": "https://firebasestorage.googleapis.com/v0/b/marketingshoes-682ee.appspot.com/o/secondindex%2FNike%20KD.png?alt=media&token=a6dd9bd0-c31e-4dcd-b35e-1040199ffc11",
+        "price": 520,
+        "name": "Kevin KD"
+    },
+     {
+        "id": 6,
+        "image": "https://firebasestorage.googleapis.com/v0/b/marketingshoes-682ee.appspot.com/o/secondindex%2FNike-Blazer-Mid-77-Obsidian-White-Flower-CI1166-100-01-removebg-preview.png?alt=media&token=b2a6bc28-c919-4dce-8395-c985268d37b9",
+        "price": 490,
+        "name": "Blazer Mid"
+    },
+    {
+        "id": 7,
+        "image": "https://firebasestorage.googleapis.com/v0/b/marketingshoes-682ee.appspot.com/o/secondindex%2FOIP-removebg-preview.png?alt=media&token=4835e40b-ffe3-4e85-b48f-77da77b139a4",
+        "price": 620,
+        "name": "Air Max 90"
+    },
+    {
+        "id": 8,
+        "image": "https://firebasestorage.googleapis.com/v0/b/marketingshoes-682ee.appspot.com/o/secondindex%2Fblazer-mid-77-se-big-kids-shoes-m0h7sX-removebg-preview.png?alt=media&token=9fe054d2-7e4c-43ba-8d95-726aa967878a",
+        "price": 520,
+        "name": "Blazer Mid 1"
+    },
+   {
+        "id": 9,
+        "image": "https://firebasestorage.googleapis.com/v0/b/marketingshoes-682ee.appspot.com/o/secondindex%2Fd4787cf77642d2b0efe611e6b3e32eea-removebg-preview.png?alt=media&token=8122d041-c7a8-40d0-90ae-057233a4c2da",
+        "price": 480,
+        "name": "Air Base"
+    },
+ {
+        "id": 10,
+        "image": "https://firebasestorage.googleapis.com/v0/b/marketingshoes-682ee.appspot.com/o/secondindex%2Fkd-trey-5-x-basketball-shoes-cNfPMN-removebg-preview.png?alt=media&token=2dc4d401-ba00-46fb-bcce-451d32f58a98",
+        "price": 520,
+        "name": "Kevin trey"
+    }
+]
