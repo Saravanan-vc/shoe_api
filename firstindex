@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "image": "https://firebasestorage.googleapis.com/v0/b/marketingshoes-682ee.appspot.com/o/firstindex%2FNIKE_ZOOM_PEGASUS.png?alt=media&token=68bf796a-4e2f-43d3-bbb6-af3e6e49e0ab",
+        "price": 520,
+        "name": "Zoom Pegasus"
+    },
+    {
+        "id": 2,
+        "image": "https://firebasestorage.googleapis.com/v0/b/marketingshoes-682ee.appspot.com/o/firstindex%2FNike%20Air%20Zoom%20Alphafly%20NEXT%25.png?alt=media&token=ad84e9c5-b310-48fe-a3fe-de11a6b62fa5",
+        "price": 460,
+        "name": "Zoom Alphafly"
+    },
+    {
+        "id": 3,
+        "image": "https://firebasestorage.googleapis.com/v0/b/marketingshoes-682ee.appspot.com/o/firstindex%2Fnew-blance-right.png?alt=media&token=33048fd1-a0f3-4061-8d31-d1165318aff6",
+        "price": 520,
+        "name": "Mix Blance"
+    },
+   {
+        "id": 4,
+        "image": "https://firebasestorage.googleapis.com/v0/b/marketingshoes-682ee.appspot.com/o/firstindex%2FNike%20Free%20RN.png?alt=media&token=40316d59-c88e-462e-a2d0-38880ed87c33",
+        "price": 580,
+        "name": "Free RN"
+    },
+ {
+        "id": 5,
+        "image": "https://firebasestorage.googleapis.com/v0/b/marketingshoes-682ee.appspot.com/o/firstindex%2FNike-SB-Dunk-Low-StrangeLove-Skateboards-Product-removebg-preview.png?alt=media&token=17f9a563-c04e-47dc-bc82-af81a855f182",
+        "price": 520,
+        "name": "SB Dunk SL"
+    },
+     {
+        "id": 6,
+        "image": "https://firebasestorage.googleapis.com/v0/b/marketingshoes-682ee.appspot.com/o/firstindex%2FOIP-removebg-preview.png?alt=media&token=97352566-67a7-46ac-ace5-816387b1dd44",
+        "price": 490,
+        "name": "Air Max"
+    },
+    {
+        "id": 7,
+        "image": "https://firebasestorage.googleapis.com/v0/b/marketingshoes-682ee.appspot.com/o/firstindex%2Fnike-air-max-1-fb-woven-metallic-gold-removebg-preview.png?alt=media&token=528f0d4f-3a00-4cbc-9be1-67738d9600b4",
+        "price": 620,
+        "name": "Golden Tick"
+    },
+    {
+        "id": 8,
+        "image": "https://firebasestorage.googleapis.com/v0/b/marketingshoes-682ee.appspot.com/o/firstindex%2Fnike-air-max-90-hyperfuse-infrared-2-570x3811-removebg-preview.png?alt=media&token=13b806c2-b144-437b-9fba-8bce471e912a",
+        "price": 520,
+        "name": "Air Max 1"
+    },
+   {
+        "id": 9,
+        "image": "https://firebasestorage.googleapis.com/v0/b/marketingshoes-682ee.appspot.com/o/firstindex%2Fsb_dunk_low_night_of_mischief_replica_1_-removebg-preview.png?alt=media&token=11f0f96c-a481-47db-9b75-0dffa0f00b3d",
+        "price": 480,
+        "name": "SB Dunk Night"
+    },
+ {
+        "id": 10,
+        "image": "https://firebasestorage.googleapis.com/v0/b/marketingshoes-682ee.appspot.com/o/firstindex%2Fth-removebg-preview.png?alt=media&token=094e18ac-b738-4089-bb8a-7c8a2683f509",
+        "price": 520,
+        "name": "Force Casual"
+    }
+]
